@@ -12,7 +12,7 @@ body {
 
   /* apply styles to header */
   header {
-      padding: 20px 35px;
+      padding: 20px 35px;        
       background-color: #39a6b2;
   }
 
@@ -81,7 +81,7 @@ body {
   }
 
   .hero-form {
-    border: solid 3px #024e76;
+    border: 3px solid #024e76;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
@@ -89,7 +89,6 @@ body {
     position: absolute;
     bottom: 120px;
     right: 140px;
-    margin: 5px 0 15px 0;
   }
 
   .hero-form h3 {
@@ -142,8 +141,7 @@ body {
     }
 
     .steps div {
-        width: 15%;
-        margin: 10px 0;
+        margin-bottom: 80px;
     }
 
     .steps img {
