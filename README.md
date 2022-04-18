@@ -1,7 +1,11 @@
 # Run Buddy
 
 ## Purpose
+<<<<<<< HEAD
 A website tha offers fitness training servides.
+=======
+A website that offers fitness training services.
+>>>>>>> main
 
 ## Built With
 * HTML
